@@ -1,0 +1,11 @@
+.MainView {
+ margin: 0px;
+ padding: 0px;
+}
+
+.SpinnerDiv {
+  position:absolute;
+  top: 30%;
+  left: 40%;
+  color: #DB0000;
+}

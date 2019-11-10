@@ -1,0 +1,14 @@
+.Output {
+  text-align: left;
+  border: 1px solid #3C3C3C;
+  border-radius: 4px;
+  padding: 0px 0px 0px 0px;
+  margin: 10px 0px 10px 0px;
+  font-family: corbel;
+}
+
+.Output .StrRow  {
+  width: 90%;
+  margin: 0px;
+  padding: 0px 5px 0px 5px;
+}
